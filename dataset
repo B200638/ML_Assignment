@@ -1,0 +1,24 @@
+# ML Assignment: Titanic Dataset
+
+This repository contains implementation of all major classification models applied to the Titanic dataset.
+
+## Models Used
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Random Forest
+- Naive Bayes
+- Gradient Boosting
+
+## Dataset
+Titanic dataset loaded using Seaborn (`sns.load_dataset("titanic")`).
+
+## Evaluation
+Models are evaluated using accuracy score.
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python titanic_classification_models.py
+

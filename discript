@@ -1,0 +1,25 @@
+1.Load the Titanic dataset.
+
+2.Preprocess the data (handle missing values, encode categorical variables, etc.).
+
+3.Split into train and test sets.
+
+4.Train various classification models:
+
+    Logistic Regression
+
+    K-Nearest Neighbors
+
+    Support Vector Machine
+
+    Decision Tree
+
+    Random Forest
+
+    Naive Bayes
+
+    Gradient Boosting
+
+5.Evaluate each model using accuracy score.
+
+
